@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://uouwgsta.github.io/sitemap/sitemap.txt
